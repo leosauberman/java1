@@ -9,6 +9,7 @@ class Collatz{
 					numeroCollatz = 3*numeroCollatz + 1;
 				}
 				tamanhoSequencia++;
+				//olaaa
 			}
 		return tamanhoSequencia;
 	}
